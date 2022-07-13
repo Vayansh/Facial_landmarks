@@ -1,0 +1,8 @@
+README.md
+setup.py
+Facial_landmarks.egg-info/PKG-INFO
+Facial_landmarks.egg-info/SOURCES.txt
+Facial_landmarks.egg-info/dependency_links.txt
+Facial_landmarks.egg-info/requires.txt
+Facial_landmarks.egg-info/top_level.txt
+facial_landmarks/__init__.py

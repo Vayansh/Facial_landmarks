@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: Facial-landmarks
+Version: 0.0.1
+Summary: A real-time facial landmarks detector
+Author: Vayansh Garg
+Author-email: <vayanshgarg1@gmail.com>
+Keywords: face_detection,landmarks,real_time,camera stream,face,facial,live detection,detect landmarks
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3.10.5
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS :: MacOS X
+Description-Content-Type: text/markdown
+
+A real-time facial landmarks detector which can detect any number of faces by just calling one function
