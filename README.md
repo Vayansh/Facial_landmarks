@@ -1,6 +1,9 @@
 # Facial Landmarks Detection Library 
  
 An easy library to get real-time facial landmarks at normal fps (30 fps) and can be saved on your pc, all just by calling one function.
+## How to use the library
+You just need to download the .whl file from [path](facial_landmarks/dist/Facial_landmarks-0.0.1-py3-none-any.whl) and install it in your environment. Then, you simply call it using import facial_landmarks.
+ 
 # Function 
 get_facial_landmarks(real_time = True,static_image_mode = False,
                          max_faces = 5,min_detection_confidence = 0.5,min_tracking_confidence = 0.5,
