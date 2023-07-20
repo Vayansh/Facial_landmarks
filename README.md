@@ -1,6 +1,6 @@
-# Facial Landmarks detection Library 
+# Facial Landmarks Detection Library 
  
-An easy library to get real-time facial landmarks at normal fps(30 fps) and can be saved on your pc, all just by calling one function.
+An easy library to get real-time facial landmarks at normal fps (30 fps) and can be saved on your pc, all just by calling one function.
 # Function 
 get_facial_landmarks(real_time = True,static_image_mode = False,
                          max_faces = 5,min_detection_confidence = 0.5,min_tracking_confidence = 0.5,
@@ -37,21 +37,24 @@ It will take an integer as input. The default is set to 1. It will set the landm
 It will take an integer as input. The default is set to 1. It will set the landmarks' thickness to desired thickness.
 
 ### Facial_contours
-It will display face contours, which include eyebrows linings and face linings according to Mediapipe-face-contours. The default is set to True. 
+It will display face contours, which include eyebrow linings and face linings, according to Mediapipe-face-contours. The default is set to True. 
 
 ### SAVE_TO_DIR 
-It will save the image to the specified directory by clicking the spacebar. The default is set to None, hence no Image will be saved.
+It will save the image to the specified directory by clicking the spacebar. The default is set to None, so no Image will be saved.
 
 
 # How to exit the Real-Time detection 
-Press Enter or Esc key to exit the Real-time detector.
+Press the Enter or Esc keys to exit the Real-time detector.
 
+# Some Example
+
+  ![image](https://github.com/Vayansh/Facial_landmarks/assets/92180055/47a45333-e75f-4498-ad4f-efcda26d5a8c)
 
 
 
 # Future Work
-1) Detecting Face landmarks from images in directory using mediapipe library and making it into just one function call.
-2) Making and saving of real-time Facial Landmarks detection.
+1) Detecting Face landmarks from images in the directory using mediapipe library and making it into just one function call.
+2) Making and saving real-time Facial landmark detection.
 
 # Used libraries
 MediaPipe 
